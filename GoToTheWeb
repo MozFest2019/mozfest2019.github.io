@@ -1,0 +1,5 @@
+#! /usr/bin/python
+import webbrowser
+
+site = raw_input('What is the name of your webpage (withuot the .html): ')
+webbrowser.open('http://mozfest2019.github.io/' + site)
