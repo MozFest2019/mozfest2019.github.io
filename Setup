@@ -1,0 +1,10 @@
+#! /usr/bin/python
+import os
+
+name = raw_input('Please name your webpage: ')
+os.system('mkdir ' + name)
+os.system('cp style.css ' + name)
+os.system('cp SendToTheWeb ' + name)
+os.system('cp GoToTheWeb ' + name)
+os.system('cp template.html {}/index.html'.format(name))
+print 'Now, type: cd ' + name
