@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> gaming with minecraft</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Indie+Flower|Lacquer|Righteous|Saira+Stencil+One&display=swap" rel="stylesheet">
+    	<!--<link type="text/css" rel="stylesheet" href="style.css"/>-->
+
+</head>
+<body>
+    <h1>h2</h1>
+    
+    <p>Welcome to your webpage. I'm a paragraph, or <strong>p</strong> tag! Edit me to what you like!</p>
+    <p>Here are some other things you can do:</p>
+    
+    <ul> <!-- unordered list (bullet points)
+            change to ol for ordered list (numbers) -->
+        
+        <li>
+            <a href="https://www.mozillafestival.org/en/">Link to other websites!</a>   
+        </li>
+        
+        <li>Put in images!</li>
+        <img src="https://blog.mozilla.org/wp-content/uploads/2018/10/37961424712_5dd3cdb830_h-1400x770.jpg" width=25% height=25%>
+   
+        <li>Put things in <strong>BOLD</strong> with the strong tag!</li>>
+    
+    <Button onclick="alert('GAME !');">Press me!</Button>
+</body>
+</html>
