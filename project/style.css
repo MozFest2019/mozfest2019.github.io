@@ -1,0 +1,30 @@
+body {
+    background-color:MidnightBlue;
+    #font-family: 'Lacquer', sans-serif;
+    #font-family: 'Saira Stencil One', cursive;
+    #font-family: 'Indie Flower', cursive;
+    #font-family: 'Baloo Chettan', cursive;
+    font-family: 'Righteous', cursive;
+    color:White;
+}
+
+h1 {
+    font-family: 'Saira Stencil One', cursive;
+}
+
+li {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 20px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+a {
+    color: YellowGreen
+}
+
+a:hover {
+    color: GreenYellow;
+}
